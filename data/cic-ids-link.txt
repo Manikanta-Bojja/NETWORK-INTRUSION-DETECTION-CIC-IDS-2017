@@ -1,0 +1,25 @@
+# Dataset Information
+
+## 📊 Dataset Used
+CIC-IDS2017 Dataset
+
+## 🔗 Download Link
+https://www.unb.ca/cic/datasets/ids-2017.html
+
+## 📁 Description
+The CIC-IDS2017 dataset contains realistic network traffic including both normal activity and various types of attacks such as:
+- DDoS
+- Brute Force
+- Botnet
+- Web Attacks
+
+## ⚠️ Note
+The dataset is very large and cannot be uploaded to this repository.
+Please download it from the official link above and place it in the following directory:
+
+data/raw/
+
+## 🛠️ After Download
+1. Extract files
+2. Place CSV files inside:
+   data/raw/
